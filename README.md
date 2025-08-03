@@ -5,7 +5,7 @@ Lab Report Operating System
 </p>
 <p align="center"><h1 align="center">LAB-REPORT-OPERATING-SYSTEM-</h1></p>
 <p align="center">
-	<em><code>❯ REPLACE-ME</code></em>
+	<em><code>❯ LAB Report </code></em>
 </p>
 <p align="center">
 	
@@ -53,7 +53,7 @@ Install Lab-Report-Operating-System- using one of the following methods:
 
 **Build from source:**
 
-1. Clone the Lab-Report-Operating-System- repository:
+1. Clone the Lab-Report-Operating-System repository:
 ```sh
 ❯ git clone https://github.com/OmRaj6666/Lab-Report-Operating-System-
 ```
