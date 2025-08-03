@@ -8,7 +8,7 @@ Lab Report Operating System
 	<em><code>❯ REPLACE-ME</code></em>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/OmRaj6666/Lab-Report-Operating-System-?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
+	
 	<img src="https://img.shields.io/github/last-commit/OmRaj6666/Lab-Report-Operating-System-?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/OmRaj6666/Lab-Report-Operating-System-?style=default&color=0080ff" alt="repo-top-language">
 	<img src="https://img.shields.io/github/languages/count/OmRaj6666/Lab-Report-Operating-System-?style=default&color=0080ff" alt="repo-language-count">
@@ -33,17 +33,6 @@ Lab Report Operating System
   - [🧪 Testing](#🧪-testing)
 ---
 
-## 📍 Overview
-
-<code>❯ REPLACE-ME</code>
-
----
-
-## 👾 Features
-
-<code>❯ REPLACE-ME</code>
-
----
 
 ## 📁 Project Structure
 
@@ -57,9 +46,7 @@ Lab Report Operating System
 
 ### ☑️ Prerequisites
 
-Before getting started with Lab-Report-Operating-System-, ensure your runtime environment meets the following requirements:
-
-- **Programming Language:** Error detecting primary_language: {}
+Before getting started with Lab-Report-Operating-System-, ensure your runtime environment meets the following requirements
 
 
 ### ⚙️ Installation
